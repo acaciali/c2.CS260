@@ -1,0 +1,49 @@
+.title {
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.info {
+  display: block;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+
+#APODtitle {
+  text-align: center;
+  font-family: monospace;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+#APOD {
+  text-align: center;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+#APODdescription {
+  text-align: left;
+  font-family: monospace;
+  margin-bottom: 100px;
+  margin-left: 40px;
+  margin-right: 40px;
+
+}
+
+.footer {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+  display: flex;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 70px;
+  width: 100%;
+  background-color: #cfcfc4; /*grey*/
+  justify-content: center;
+  align-items: center;
+}
